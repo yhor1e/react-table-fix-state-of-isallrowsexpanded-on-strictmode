@@ -1,8 +1,8 @@
-This repository is applying [react-table #3471](https://github.com/tannerlinsley/react-table/pull/3471) to [expanding example](https://github.com/tannerlinsley/react-table/tree/master/examples/expanding).
+This repository is applying [react-table #3471](https://github.com/tannerlinsley/react-table/pull/3471) to [expanding example](https://github.com/tannerlinsley/react-table/tree/8c77b4ad97353a0b1f0746be5b919868862a9dcc/examples/expanding).
 
 `yarn` and `yarn start` to run this example and check it.
 
-I changed below.
+I changed the below.
 
 `src/App.js`
 
